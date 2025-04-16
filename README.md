@@ -1,1 +1,1 @@
-# GitConflict
+# GitMuizz
